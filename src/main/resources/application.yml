@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: java-demo
+    version: 0.0.1
