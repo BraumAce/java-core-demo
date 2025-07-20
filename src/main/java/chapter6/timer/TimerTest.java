@@ -1,4 +1,4 @@
-package com.example.javademo.timer;
+package chapter6.timer;
 
 import javax.swing.*;
 import java.awt.*;
