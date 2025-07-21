@@ -3,6 +3,9 @@ package chapter6.clone;
 import java.util.Date;
 import java.util.GregorianCalendar;
 
+/**
+ * 6-5 Employee 类
+ */
 public class Employee implements Cloneable {
 
     private String name;

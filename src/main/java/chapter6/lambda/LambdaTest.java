@@ -5,8 +5,11 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.function.IntConsumer;
 
+/**
+ * 6.2.2 lambda 表达式的语法
+ * 6-6 对一个比较器和一个监听器使用 lambda 表达式
+ */
 public class LambdaTest {
-
     public static void main(String[] args) {
         String[] strings = { "Mary", "Sue", "Kate", "Jane", "Jill", "Mike", "Jim", "Joe" };
         System.out.println(Arrays.toString(strings));

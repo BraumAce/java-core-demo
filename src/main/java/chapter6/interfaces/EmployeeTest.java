@@ -2,6 +2,10 @@ package chapter6.interfaces;
 
 import java.util.Arrays;
 
+/**
+ * 6.1.1 接口的概念
+ * 6-1 对 Employee 类实例数组进行排序
+ */
 public class EmployeeTest {
     public static void main(String[] args) {
         Employee[] staff = new Employee[3];

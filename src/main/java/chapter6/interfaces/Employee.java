@@ -2,6 +2,9 @@ package chapter6.interfaces;
 
 import lombok.Data;
 
+/**
+ * 6-2 Employee 类
+ */
 @Data
 public class Employee implements Comparable<Employee> {
 
