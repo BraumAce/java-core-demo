@@ -1,4 +1,4 @@
-package chapter6.staticInnerClass;
+package com.yuan.chapter6.staticInnerClass;
 
 import lombok.Getter;
 

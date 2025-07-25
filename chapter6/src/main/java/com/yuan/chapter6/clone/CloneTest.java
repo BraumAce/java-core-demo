@@ -1,4 +1,4 @@
-package chapter6.clone;
+package com.yuan.chapter6.clone;
 
 /**
  * 6.1.9 对象克隆

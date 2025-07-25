@@ -1,4 +1,4 @@
-package chapter6.anonymousInnerClass;
+package com.yuan.chapter6.anonymousInnerClass;
 
 import javax.swing.*;
 import java.awt.*;

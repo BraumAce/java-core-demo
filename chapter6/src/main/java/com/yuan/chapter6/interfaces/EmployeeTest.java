@@ -1,4 +1,4 @@
-package chapter6.interfaces;
+package com.yuan.chapter6.interfaces;
 
 import java.util.Arrays;
 

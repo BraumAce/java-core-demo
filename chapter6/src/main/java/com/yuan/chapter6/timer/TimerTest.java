@@ -1,4 +1,4 @@
-package chapter6.timer;
+package com.yuan.chapter6.timer;
 
 import javax.swing.*;
 import java.awt.*;

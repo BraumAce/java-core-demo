@@ -1,4 +1,4 @@
-package chapter6.lambda;
+package com.yuan.chapter6.lambda;
 
 import javax.swing.*;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package chapter6.proxy;
+package com.yuan.chapter6.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

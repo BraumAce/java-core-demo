@@ -1,4 +1,4 @@
-package chapter6.innerClass;
+package com.yuan.chapter6.innerClass;
 
 import javax.swing.*;
 import java.awt.*;

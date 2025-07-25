@@ -1,4 +1,4 @@
-package chapter6.clone;
+package com.yuan.chapter6.clone;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
