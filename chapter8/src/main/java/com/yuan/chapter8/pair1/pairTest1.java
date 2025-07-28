@@ -1,5 +1,9 @@
 package com.yuan.chapter8.pair1;
 
+/**
+ * 8.2 定义简单泛型类
+ * 8-1 创建一个简单的泛型类
+ */
 public class pairTest1 {
 
     public static void main(String[] args) {
