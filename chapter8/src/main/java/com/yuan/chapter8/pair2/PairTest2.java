@@ -5,7 +5,7 @@ import com.yuan.chapter8.pair1.Pair;
 import java.time.LocalDate;
 
 /**
- * 8.4 类型变量的限定
+ * 8.4 类型变量的限定 <p>
  * 8-2 泛型方法
  */
 public class PairTest2 {

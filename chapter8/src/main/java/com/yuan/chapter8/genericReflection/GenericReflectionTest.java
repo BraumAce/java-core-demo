@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 import java.util.Scanner;
 
 /**
- * 8.9.2 使用Class<T>参数进行类型匹配
+ * 8.9.2 使用Class<T>参数进行类型匹配 <p>
  * 8-4 使用泛型反射API打印一个给定类的有关信息
  */
 public class GenericReflectionTest {

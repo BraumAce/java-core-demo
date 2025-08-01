@@ -2,6 +2,10 @@ package com.yuan.chapter8.pair3;
 
 import com.yuan.chapter8.pair1.Pair;
 
+/**
+ * 8.8.4 通配符捕获 <p>
+ * 8-3 泛型通配符捕获
+ */
 public class PairTest3 {
 
     public static void main(String[] args) {
