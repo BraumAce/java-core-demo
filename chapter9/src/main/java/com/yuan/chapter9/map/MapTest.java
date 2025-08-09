@@ -3,6 +3,10 @@ package com.yuan.chapter9.map;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 9.4 映射 <p>
+ * 9-6 一个映射的具体使用
+ */
 public class MapTest {
 
     public static void main(String[] args) {
